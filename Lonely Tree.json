@@ -3,7 +3,7 @@
         "version": "1.0.0",
         "name": "Lonely Tree",
         "author": "Lanney",
-        "updater": ""
+        "updater": "https://raw.githubusercontent.com/ahar2611/Lonely-Tree/main/Lonely%20Tree.json"
     },
     "background": {
         "blur_radius": 3,
